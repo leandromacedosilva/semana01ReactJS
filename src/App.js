@@ -9,13 +9,13 @@ function App() {
         
         <div>
         <label for="">Nome</label>
-        <input type="" name="" id=""></input>
+        <input type="text" name="nome" id="nome"></input>
         </div>
                 
         <p>
           Parabéns <code>Leandro</code> você está no REACT JS.
         </p>
-        
+
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
